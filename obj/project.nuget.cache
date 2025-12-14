@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEAI386NJxM=",
+  "success": true,
+  "projectFilePath": "C:\\Project\\CSharp\\SpbGUTelegramBot\\SpbGUTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Jonah\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Project\\CSharp\\SpbGUTelegramBot\\SpbGUTelegramBot.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Project\\CSharp\\SpbGUTelegramBot\\SpbGUTelegramBot.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
